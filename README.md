@@ -1,4 +1,4 @@
-<img align="right" width="160" src="https://raw.githubusercontent.com/zawarudo-coder/darylladjo/main/photo.jpg" alt="Daryl LADJO" />
+<img align="right" width="230" src="https://raw.githubusercontent.com/zawarudo-coder/darylladjo/main/photo-profile.jpg" alt="Daryl LADJO" />
 
 # Daryl LADJO
 
