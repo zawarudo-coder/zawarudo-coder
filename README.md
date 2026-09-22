@@ -24,7 +24,7 @@ Next step: a Master's in Data Engineering & AI (EFREI, 2027 intake).
 ### Right now
 
 - Building an LLM-driven synthetic data foundry — [KoraAI](https://github.com/zawarudo-coder/koraai)
-- An invoicing app — [InvoiceAI](https://github.com/zawarudo-coder/invoiceai)
+- An invoicing app — [InvoiceAI](https://invoiceai-liart.vercel.app) ([code](https://github.com/zawarudo-coder/invoiceai))
 - **Anistream** — full-stack anime & manga app: 1000+ titles, watch history and list, installable PWA
 - Everything I write stays public here on GitHub
 
