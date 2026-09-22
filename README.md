@@ -2,7 +2,7 @@
 
 # Daryl LADJO
 
-**IT student & builder — I learn by shipping.**
+**IT student & builder — I learn by shipping.**<br>
 Lomé, Togo · [darylladjo.github.io/darylladjo](https://zawarudo-coder.github.io/darylladjo/) · darylladjo@gmail.com
 
 ---
