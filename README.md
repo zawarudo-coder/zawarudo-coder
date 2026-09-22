@@ -14,7 +14,7 @@ the MCP / WebMCP protocol.
 I like tech in general rather than one narrow lane: a backend, an interface, a data pipeline, an agent —
 I'll take it on. What I have is solid foundations and a few real skills, not a title I haven't earned.
 
-Next step: a Master's in Data Engineering & AI (EFREI, 2027 intake).
+IT student at **Ascencia Keyce Togo** (Lomé). Next step: a Master's in Data Engineering & AI.
 
 ### What I work with
 
