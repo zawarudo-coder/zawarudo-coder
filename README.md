@@ -1,28 +1,30 @@
+<img align="right" width="160" src="https://raw.githubusercontent.com/zawarudo-coder/darylladjo/main/photo.jpg" alt="Daryl LADJO" />
+
 # Daryl LADJO
 
-**Software Engineer — Full-Stack & AI Agents** · Lomé, Togo
+**IT student & builder — I learn by shipping.**
+Lomé, Togo · [darylladjo.github.io/darylladjo](https://zawarudo-coder.github.io/darylladjo/) · darylladjo@gmail.com
 
-I build web products end to end: Python / FastAPI + PostgreSQL backends, React and React
-Native front ends, and AI agents wired to real tools through the **MCP / WebMCP** protocol.
+---
 
-- Site : https://zawarudo-coder.github.io/darylladjo/
-- Email : darylladjo@gmail.com
-- Éducation : Bachelor informatique (B1 → B2, en cours) — candidature en Mastère
-  Data Engineering & IA (EFREI, rentrée 2027)
+I build things to learn. Web apps end to end — Python and FastAPI with PostgreSQL on one side,
+TypeScript, React and React Native on the other — and lately AI agents wired to real tools through
+the MCP / WebMCP protocol.
 
-### Stack
+I like tech in general rather than one narrow lane: a backend, an interface, a data pipeline, an agent —
+I'll take it on. What I have is solid foundations and a few real skills, not a title I haven't earned.
 
-`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `SQLAlchemy / Alembic` · `TypeScript` ·
-`React / Next.js` · `React Native` · `NestJS` · `Docker` · `Git` · `MCP / WebMCP`
+Next step: a Master's in Data Engineering & AI (EFREI, 2027 intake).
 
-### Projets
+### What I work with
 
-- **[KoraAI — Golden Data Foundry](https://github.com/zawarudo-coder/koraai)** — génération de
-  données synthétiques pilotée par LLM : forge de données, préservation de la vie privée,
-  audit de qualité. *(Python)*
-- **[InvoiceAI](https://github.com/zawarudo-coder/invoiceai)** — application de facturation :
-  génération et suivi de factures. *(TypeScript)*
+`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `SQLAlchemy / Alembic` · `TypeScript` · `React / Next.js`
+· `React Native` · `NestJS` · `Docker` · `Git` · `MCP / WebMCP`
 
-### Me joindre
+### Right now
 
-Le plus simple : [darylladjo@gmail.com](mailto:darylladjo@gmail.com).
+- Building an LLM-driven synthetic data foundry — [KoraAI](https://github.com/zawarudo-coder/koraai)
+- An invoicing app — [InvoiceAI](https://github.com/zawarudo-coder/invoiceai)
+- Everything I write stays public here on GitHub
+
+📫 **darylladjo@gmail.com**
